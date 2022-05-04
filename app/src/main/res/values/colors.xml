@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peaksPrimary">#FFDE8089</color>
+    <color name="peaksPrimaryDark">#FFAA525C</color>
+    <color name="peaksComplementary">#FF0C88C4</color>
+    <color name="peaksComplementaryDark">#FF005B93</color>
+</resources>

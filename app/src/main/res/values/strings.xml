@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PeaksTest</string>
+
+    <string name="tutorial_message">Hello, to get started just long click on the view you want to move.</string>
+</resources>
