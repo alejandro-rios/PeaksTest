@@ -40,7 +40,6 @@ in the `domainModule` file is where the repository change is done depending (in 
 
 ## 🧱 Project Structure
 
-
 ```sh
 .
 ├── data
@@ -73,10 +72,14 @@ in the `domainModule` file is where the repository change is done depending (in 
 
 ### Presentation Package
 - `view` custom view implemented to draw a rectangle in a position.
-- it also contains the MainActivity and MainViewModel.
+- it also contains the `MainActivity` and `MainViewModel`.
 
 ### App Package
-- `di` all the classes related to dependency injection(appModule, dataModule, domainModule).
+- `di` all the classes related to dependency injection(`appModule`, `dataModule`, `domainModule`).
+
+### 🎥 Video
+
+https://user-images.githubusercontent.com/10689052/166815844-d25c6860-07ca-47a7-86c7-3eef8307c644.mov
 
 
 ### 📓 Notes and considerations
